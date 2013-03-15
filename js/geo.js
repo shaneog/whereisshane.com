@@ -7,22 +7,26 @@ $(document).ready(function () {
     styleId: 997
   }).addTo(map);
 
-  $.getJSON('sample.json', function (data) {
+  $.ajax({
+    url: 'http://data.whereisshane.com/_design/data/_view/all',
+    dataType: 'jsonp',
+    success: function (data) {
 
-    var bounds = new L.LatLngBounds();
+      var bounds = new L.LatLngBounds();
 
-    $.each(data, function (key, obj) {
+      $.each(data.rows, function (key, row) {
+        var obj = row.value,
+          marker = L.marker([obj.location.lat, obj.location.lng], {
+            "riseOnHover": true
+          }).addTo(map);
 
-      bounds.extend([obj.location.lat, obj.location.lng]);
+        bounds.extend([obj.location.lat, obj.location.lng]);
 
-      var marker = L.marker([obj.location.lat, obj.location.lng], {
-        "riseOnHover": true
-      }).addTo(map);
+        marker.bindPopup("<b>" + obj.name + "</b><br>" + obj.description + "<br>" + moment(obj.timestamp).fromNow());
 
-      marker.bindPopup("<b>" + obj.name + "</b><br>" + obj.description + "<br>" + moment(obj.timestamp).fromNow());
+      });
 
-    });
-
-    map.fitBounds(bounds.pad(0.5));
+      map.fitBounds(bounds.pad(0.5));
+    }
   });
 });
