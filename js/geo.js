@@ -7,11 +7,11 @@ $(document).ready(function () {
     styleId: 997
   }).addTo(map);
 
-  $.getJSON('sample.json', function (data) {
+  $.getJSON('http://data.whereisshane.com/_design/data/_view/all', function (data) {
 
     var bounds = new L.LatLngBounds();
 
-    $.each(data, function (key, obj) {
+    $.each(data.rows, function (key, obj) {
 
       bounds.extend([obj.location.lat, obj.location.lng]);
 
