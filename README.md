@@ -15,7 +15,7 @@ A responsive single page that displays a map which will show a list of all the p
 
 ### Back-end
 
-A single URL/page that I can visit on any browser (desktop/mobile) which will use several techniques to find my currenct location, starting with the most precise and then moving to less precise methods.
+A single URL/page that I can visit on any browser (desktop/mobile) which will use several techniques to find my current location, starting with the most precise and then moving to less precise methods.
 
 The name of the location can be retrieved using [Google Maps Reverse Geocoding service][6].
 
