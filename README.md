@@ -86,7 +86,7 @@ Long term location data storage will be via a hosted database provider that prov
   "description": "Dun Laoghaire Harbour",
   "location":{
     "lat": 53.29272,
-    "lng": -6.12973,
+    "lng": -6.12973
   },
   "timestamp": 1363352656691
 }
