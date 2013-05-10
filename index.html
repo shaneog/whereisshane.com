@@ -9,17 +9,46 @@
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
 <![endif]-->
 
+<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 <style>
 body {
     padding: 0;
     margin: 0;
+    font-family: Helvetica, sans-serif;
 }
-html, body, #map {
+header {
+    background: #222;
+    box-shadow: inset 0 -3px 5px #000, 0 1px 0 rgba(255,255,255, 0.15);
+    color: #fff;
+    font: 400 16px/2.5em "Lobster", sans-serif;
+    position: relative;
+    text-shadow: 0 1px 3px #000;
+    text-indent: 15px;
+    z-index: 9999;
+}
+a, a.visited {
+    color: #aaa;
+}
+.info {
+    color: #aaa;
+    margin-left: 10px;
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+html, body {
     height: 100%;
+}
+#map {
+    height: 100%;
+    width: 100%;
 }
 </style>
 </head>
 <body>
+<header>
+    Where Is Shane?<span class="info">built by <a href="http://ogrady.ie">Shane O'Grady</a></span>
+</header>
 <div id="map"></div>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
