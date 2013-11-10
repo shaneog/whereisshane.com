@@ -969,12 +969,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-0.448508,
-					40.977423
+					1.5000,
+					42.5000
 				]
 			},
 			"properties": {
-				"name": "Andorra, Teruel, Spain"
+				"name": "Andorra La Vella, Spain"
 			}
 		}
 	]
