@@ -24,7 +24,7 @@
 				]
 			},
 			"properties": {
-				"name": "Caesars Palace Drive, Las Vegas, NV 89109, USA"
+				"name": "Caesars Palace, Las Vegas, NV 89109, USA"
 			}
 		},
 		{
@@ -32,12 +32,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-75.296958,
-					39.85244
+					-75.2411,
+					39.8719° N,
 				]
 			},
 			"properties": {
-				"name": "Philadelphia, Tinicum Township, PA 19029, USA"
+				"name": "Philadelphia International Airport (PHL). PA 19153, USA"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				]
 			},
 			"properties": {
-				"name": "East Pier, Co. Dublin, Ireland"
+				"name": "East Pier, Dún Laoghaire, Co. Dublin, Ireland"
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 				]
 			},
 			"properties": {
-				"name": "Garretstown Beach, Ireland"
+				"name": "Garretstown Beach, Co. Cork, Ireland"
 			}
 		},
 		{
@@ -630,12 +630,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					116.073804,
-					5.963469
+					116.5500,
+					6.0833
 				]
 			},
 			"properties": {
-				"name": "Muzium Tamadun Islam Sabah, Jalan Menteri, 91000 Kota Kinabalu, Sabah, Malaysia"
+				"name": "Low's Peak, Mount Kinabalu, Sabah, Borneo, Malaysia"
 			}
 		},
 		{
@@ -643,12 +643,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					116.116197,
-					5.975613
+					116.0953,
+					5.9714
 				]
 			},
 			"properties": {
-				"name": "North Borneo Railway, 91000 Kota Kinabalu, Sabah, Malaysia"
+				"name": "Kota Kinabalu, Sabah, Malaysia"
 			}
 		},
 		{
@@ -804,7 +804,7 @@
 				]
 			},
 			"properties": {
-				"name": "09400 Kusadasi, Turkey"
+				"name": "Kusadasi, Turkey"
 			}
 		},
 		{
@@ -812,12 +812,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					21.629408,
-					37.643458
+					21.623,
+					37.6380
 				]
 			},
 			"properties": {
-				"name": "Olympia Archaeological Museum, Archea Olimpia 270 65, Greece"
+				"name": "Olympia, Greece"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 				]
 			},
 			"properties": {
-				"name": "Abu Zabi - United Arab Emirates"
+				"name": "Abu Dhabi - United Arab Emirates"
 			}
 		},
 		{
@@ -974,7 +974,7 @@
 				]
 			},
 			"properties": {
-				"name": "44500 Andorra, Teruel, Spain"
+				"name": "Andorra, Teruel, Spain"
 			}
 		}
 	]
