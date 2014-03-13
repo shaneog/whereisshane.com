@@ -976,6 +976,32 @@
 			"properties": {
 				"name": "Andorra La Vella, Spain"
 			}
-		}
+		},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.19739,
+                    -22.95517
+                ]
+            },
+            "properties": {
+                "name": "Rio de Janiero, Brazil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.0857,
+                    -23.4339
+                ]
+            },
+            "properties": {
+                "name": "Ubatuba, Brazil"
+            }
+        }
 	]
 }
