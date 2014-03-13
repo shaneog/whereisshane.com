@@ -4,9 +4,10 @@ $(document).ready(function () {
   var map = L.map('map');
   var current_place;
 
-  L.tileLayer('http://{s}.tile.cloudmade.com/a777adab7b1d454f9290d5312d97ab23/{styleId}/256/{z}/{x}/{y}.png', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-    styleId: 113341
+
+  L.tileLayer('http://{s}.tiles.mapbox.com/v3/{user}.{map}/{z}/{x}/{y}.png', {
+    user: 'shaneog',
+    map: 'hgobelh9'
   }).addTo(map);
 
 
