@@ -955,20 +955,6 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-46.633333,
-					-23.583333
-				]
-			},
-			"properties": {
-				"name": "Vila Mariana, São Paulo, Brazil",
-                "current": true
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
 					1.5000,
 					42.5000
 				]
@@ -1001,6 +987,20 @@
             },
             "properties": {
                 "name": "Ubatuba, Brazil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.633333,
+                    -23.583333
+                ]
+            },
+            "properties": {
+                "name": "Vila Mariana, São Paulo, Brazil",
+                "current": true
             }
         }
 	]
