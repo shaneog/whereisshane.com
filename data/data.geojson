@@ -1000,6 +1000,146 @@
             },
             "properties": {
                 "name": "Vila Mariana, São Paulo, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.683333,
+                    40.4
+                ]
+            },
+            "properties": {
+                "name": "Madrid, Spain",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.071944,
+                    19.436111
+                ]
+            },
+            "properties": {
+                "name": "Mexico City, Mexico",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34.9,
+                    -8.05
+                ]
+            },
+            "properties": {
+                "name": "Recife, Pernambuco, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35,
+                    -8.50111
+                ]
+            },
+            "properties": {
+                "name": "Porto de Galinhas, Ipojuca, Pernambuco, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34.883333,
+                    -8
+                ]
+            },
+            "properties": {
+                "name": "Olinda, Pernambuco, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35.171111,
+                    -5.881111
+                ]
+            },
+            "properties": {
+                "name": "Ponta Negra, Natal, Rio Grande do Norte, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35.047647,
+                    -6.227582
+                ]
+            },
+            "properties": {
+                "name": "Praia de Pipa, Rio Grande do Norte, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.25,
+                    -25.416667
+                ]
+            },
+            "properties": {
+                "name": "Curitiba, Paraná, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.233333,
+                    -23.15
+                ]
+            },
+            "properties": {
+                "name": "Ilha Grande, Rio de Janeiro, Brazil",
+                "current": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.685,
+                    -23.6
+                ]
+            },
+            "properties": {
+                "name": "Itaim Bibi, São Paulo, Brazil",
                 "current": true
             }
         }
