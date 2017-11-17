@@ -5,7 +5,7 @@ $(document).ready(function () {
   var current_place;
 
 
-  L.tileLayer('http://{s}.tiles.mapbox.com/v3/{user}.{map}/{z}/{x}/{y}.png', {
+  L.tileLayer('//{s}.tiles.mapbox.com/v3/{user}.{map}/{z}/{x}/{y}.png', {
     user: 'shaneog',
     map: 'hgobelh9'
   }).addTo(map);
@@ -13,7 +13,7 @@ $(document).ready(function () {
 
   var RedIcon = L.Icon.Default.extend({
     options: {
-      iconUrl: 'images/marker-icon-red.png'
+      iconUrl: '//whereisshane.com/images/marker-icon-red.png'
     }
   });
   var redIcon = new RedIcon();
