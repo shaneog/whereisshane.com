@@ -13,7 +13,7 @@ $(document).ready(function () {
 
   var RedIcon = L.Icon.Default.extend({
     options: {
-      iconUrl: '//whereisshane.com/images/marker-icon-red.png'
+      iconUrl: 'https://whereisshane.com/images/marker-icon-red.png'
     }
   });
   var redIcon = new RedIcon();
