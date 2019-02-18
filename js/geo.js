@@ -1,43 +1,50 @@
-$(document).ready(function () {
+document.addEventListener("DOMContentLoaded", function(event) {
   "use strict";
 
   var map = L.map('map');
   var current_place;
 
 
-  L.tileLayer('//{s}.tiles.mapbox.com/v3/{user}.{map}/{z}/{x}/{y}.png', {
-    user: 'shaneog',
-    map: 'hgobelh9'
+  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    accessToken: 'pk.eyJ1Ijoic2hhbmVvZyIsImEiOiJ3M2pRekZzIn0.PBMF6qUP6jta6HsC-eU4PQ',
+    id: 'mapbox.streets',
   }).addTo(map);
 
 
   var RedIcon = L.Icon.Default.extend({
     options: {
-      iconUrl: 'https://whereisshane.com/images/marker-icon-red.png'
+      imagePath: '/images/',
+      iconUrl: 'marker-icon-red.png'
     }
   });
   var redIcon = new RedIcon();
 
-  $.getJSON('data/data.geojson', function(data) {
+  // Load the JSON data
+  var request = new XMLHttpRequest();
+  request.open('GET', 'data/data.geojson', true);
 
-    var pu;
+  request.onload = function() {
+    if (request.status >= 200 && request.status < 400) {
+      var data = JSON.parse(request.responseText);
 
-    var geojsonLayer = L.geoJson(data, {
-      onEachFeature: function (feature, layer) {
-        pu = layer.bindPopup(feature.properties.name);
+      var pu;
 
-        if (feature.properties.current == true){
-          pu.setIcon(redIcon);
-          current_place = pu;
+      var geojsonLayer = L.geoJson(data, {
+        onEachFeature: function (feature, layer) {
+          pu = layer.bindPopup(feature.properties.name);
+
+          if (feature.properties.current == true){
+            pu.setIcon(redIcon);
+            current_place = pu;
+          }
         }
+      }).addTo(map);
 
-        //marker.bindPopup("<b>" + obj.name + "</b><br>" + obj.description + "<br>" + moment(obj.timestamp).fromNow());
-      }
-    }).addTo(map);
+      map.fitBounds(geojsonLayer.getBounds());
 
-    map.fitBounds(geojsonLayer.getBounds());
+      current_place.openPopup();
+    }
+  };
 
-    current_place.openPopup();
-  });
-
+  request.send();
 });
