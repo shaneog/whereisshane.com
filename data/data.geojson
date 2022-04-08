@@ -1,1596 +1,1249 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-74.005973,
-					40.714353
-				]
-			},
-			"properties": {
-				"name": "New York, NY, USA"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-115.173323,
-					36.117314
-				]
-			},
-			"properties": {
-				"name": "Caesars Palace, Las Vegas, NV 89109, USA"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-75.2411,
-					39.8719
-				]
-			},
-			"properties": {
-				"name": "Philadelphia International Airport (PHL). PA 19153, USA"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-74.405661,
-					40.058324
-				]
-			},
-			"properties": {
-				"name": "New Jersey, USA"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-6.177067,
-					53.300791
-				]
-			},
-			"properties": {
-				"name": "Blackrock, Co. Dublin, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-6.177067,
-					53.300791
-				]
-			},
-			"properties": {
-				"name": "Blackrock, Co. Dublin, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-6.1258,
-					53.296603
-				]
-			},
-			"properties": {
-				"name": "East Pier, Dún Laoghaire, Co. Dublin, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-6.141937,
-					53.29279
-				]
-			},
-			"properties": {
-				"name": "Dún Laoghaire, Co. Dublin, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-8.268162,
-					53.75926
-				]
-			},
-			"properties": {
-				"name": "Roscommon, Co. Roscommon, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-8.522501,
-					51.70605
-				]
-			},
-			"properties": {
-				"name": "Kinsale, Co. Cork, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-8.581008,
-					51.644154
-				]
-			},
-			"properties": {
-				"name": "Garretstown Beach, Co. Cork, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-8.486316,
-					51.896892
-				]
-			},
-			"properties": {
-				"name": "Cork, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-7.620363,
-					52.093676
-				]
-			},
-			"properties": {
-				"name": "Dungarvan, Co. Waterford, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.119824,
-					51.511214
-				]
-			},
-			"properties": {
-				"name": "London, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					0.667367,
-					51.765908
-				]
-			},
-			"properties": {
-				"name": "Essex, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-2.248485,
-					53.479324
-				]
-			},
-			"properties": {
-				"name": "Manchester, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-2.70309,
-					53.763201
-				]
-			},
-			"properties": {
-				"name": "Preston, Lancashire, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-3.188267,
-					55.953252
-				]
-			},
-			"properties": {
-				"name": "Edinburgh, City of Edinburgh, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-3.17909,
-					51.481581
-				]
-			},
-			"properties": {
-				"name": "Cardiff, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-1.470085,
-					53.381129
-				]
-			},
-			"properties": {
-				"name": "Sheffield, South Yorkshire, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-2.12882,
-					52.586973
-				]
-			},
-			"properties": {
-				"name": "Wolverhampton, West Midlands, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					10.752245,
-					59.913869
-				]
-			},
-			"properties": {
-				"name": "Oslo, Norway"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-21.89521,
-					64.135338
-				]
-			},
-			"properties": {
-				"name": "Reykjavik, Iceland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					8.682127,
-					50.110922
-				]
-			},
-			"properties": {
-				"name": "Frankfurt, Germany"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					104.917445,
-					11.558831
-				]
-			},
-			"properties": {
-				"name": "Phnom Penh, Cambodia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.866986,
-					13.412469
-				]
-			},
-			"properties": {
-				"name": "Angkor Wat, Angkor, Cambodia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					103.833333,
-					13.333333
-				]
-			},
-			"properties": {
-				"name": "Siem Reap, Cambodia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					104.355916,
-					10.536089
-				]
-			},
-			"properties": {
-				"name": "Kep, Cambodia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					98.993131,
-					18.787748
-				]
-			},
-			"properties": {
-				"name": "Chiang Mai, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					100.524123,
-					13.727896
-				]
-			},
-			"properties": {
-				"name": "Bangkok, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					98.363882,
-					7.98105
-				]
-			},
-			"properties": {
-				"name": "Phuket, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					99.840396,
-					10.09561
-				]
-			},
-			"properties": {
-				"name": "Ko Tao, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					100.013593,
-					9.512017
-				]
-			},
-			"properties": {
-				"name": "Ko Samui, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					100.013593,
-					9.731875
-				]
-			},
-			"properties": {
-				"name": "Ko Pha-ngan, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					2.173403,
-					41.385064
-				]
-			},
-			"properties": {
-				"name": "Barcelona, Spain"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					2.392256,
-					41.504081
-				]
-			},
-			"properties": {
-				"name": "Vilassar de Mar, Barcelona, Spain"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					2.392996,
-					41.528055
-				]
-			},
-			"properties": {
-				"name": "Cabrera de Mar, Barcelona, Spain"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					3.126964,
-					42.125024
-				]
-			},
-			"properties": {
-				"name": "L'Escala, Girona, Spain"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					9.186516,
-					45.465454
-				]
-			},
-			"properties": {
-				"name": "Milan, Italy"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					15.286586,
-					37.075474
-				]
-			},
-			"properties": {
-				"name": "Syracuse, Italy"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					13.361267,
-					38.115688
-				]
-			},
-			"properties": {
-				"name": "Palermo, Italy"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					12.537202,
-					38.017618
-				]
-			},
-			"properties": {
-				"name": "Trapani, Italy"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					99.321748,
-					9.138239
-				]
-			},
-			"properties": {
-				"name": "Surat Thani, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					101.451091,
-					12.55825
-				]
-			},
-			"properties": {
-				"name": "Ko Samet, Khao Laem Ya - Mu Ko Samet National Park, Thailand"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					2.352222,
-					48.856614
-				]
-			},
-			"properties": {
-				"name": "Paris, France"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.490686,
-					38.345996
-				]
-			},
-			"properties": {
-				"name": "Alicante, Spain"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					4.470555,
-					50.46936
-				]
-			},
-			"properties": {
-				"name": "Brussels South Charleroi Airport (CRL), Rue des Frères Wright 8, 6041 Charleroi, Belgium"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					101.686855,
-					3.139003
-				]
-			},
-			"properties": {
-				"name": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					116.5500,
-					6.0833
-				]
-			},
-			"properties": {
-				"name": "Low's Peak, Mount Kinabalu, Sabah, Borneo, Malaysia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					116.0953,
-					5.9714
-				]
-			},
-			"properties": {
-				"name": "Kota Kinabalu, Sabah, Malaysia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					113.919126,
-					22.307128
-				]
-			},
-			"properties": {
-				"name": "Hong Kong International Airport (HKG), Hong Kong"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.222099,
-					-8.65629
-				]
-			},
-			"properties": {
-				"name": "Denpasar, Bali, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.170303,
-					-8.724115
-				]
-			},
-			"properties": {
-				"name": "Kuta, Badung, Bali, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.455586,
-					-8.678583
-				]
-			},
-			"properties": {
-				"name": "Lembongan island, Jungutbatu, Nusapenida, Klungkung, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.451143,
-					-8.700368
-				]
-			},
-			"properties": {
-				"name": "Ceningan island, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.153771,
-					-8.818263
-				]
-			},
-			"properties": {
-				"name": "Jalan Uluwatu, South Kuta, Badung, Bali 80361, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.205257,
-					-8.681688
-				]
-			},
-			"properties": {
-				"name": "Tanah Lot, Dauh Puri Kauh, West Denpasar, Denpasar, Bali 80114, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.263298,
-					-8.519268
-				]
-			},
-			"properties": {
-				"name": "Ubud, Gianyar 80571, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.22564,
-					-8.797585
-				]
-			},
-			"properties": {
-				"name": "Jalan Nusa Dua, South Kuta, Badung, Bali 80361, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.375,
-					-8.242
-				]
-			},
-			"properties": {
-				"name": "Mount Batur, South Batur, Kintamani, Bangli 80652, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					115.57995,
-					-8.312404
-				]
-			},
-			"properties": {
-				"name": "Tulamben, Kubu, Karangasem, Bali, Indonesia"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					27.263729,
-					37.862209
-				]
-			},
-			"properties": {
-				"name": "Kusadasi, Turkey"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					21.623,
-					37.6380
-				]
-			},
-			"properties": {
-				"name": "Olympia, Greece"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					20.898827,
-					37.78816
-				]
-			},
-			"properties": {
-				"name": "Zakinthos, Greece"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					20.569218,
-					38.175368
-				]
-			},
-			"properties": {
-				"name": "Cephalonia, Greece"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					14.4378,
-					50.075538
-				]
-			},
-			"properties": {
-				"name": "Prague, Czech Republic"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					3.017571,
-					39.695263
-				]
-			},
-			"properties": {
-				"name": "Majorca, Balearic Islands, Spain"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					4.895168,
-					52.370216
-				]
-			},
-			"properties": {
-				"name": "Amsterdam, The Netherlands"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-1.890401,
-					52.486243
-				]
-			},
-			"properties": {
-				"name": "Birmingham, West Midlands, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-9.056668,
-					53.270559
-				]
-			},
-			"properties": {
-				"name": "Galway, Ireland"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-5.024055,
-					54.903367
-				]
-			},
-			"properties": {
-				"name": "Stranraer, Dumfries and Galloway, UK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					55.307485,
-					25.271139
-				]
-			},
-			"properties": {
-				"name": "Dubai - United Arab Emirates"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					54.366667,
-					24.466667
-				]
-			},
-			"properties": {
-				"name": "Abu Dhabi - United Arab Emirates"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					1.5000,
-					42.5000
-				]
-			},
-			"properties": {
-				"name": "Andorra La Vella, Spain"
-			}
-		},
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -43.19739,
-                    -22.95517
-                ]
-            },
-            "properties": {
-                "name": "Rio de Janiero, Brazil"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -45.0857,
-                    -23.4339
-                ]
-            },
-            "properties": {
-                "name": "Ubatuba, Brazil"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.633333,
-                    -23.583333
-                ]
-            },
-            "properties": {
-                "name": "Vila Mariana, São Paulo, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.683333,
-                    40.4
-                ]
-            },
-            "properties": {
-                "name": "Madrid, Spain",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.071944,
-                    19.436111
-                ]
-            },
-            "properties": {
-                "name": "Mexico City, Mexico",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -34.9,
-                    -8.05
-                ]
-            },
-            "properties": {
-                "name": "Recife, Pernambuco, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -35,
-                    -8.50111
-                ]
-            },
-            "properties": {
-                "name": "Porto de Galinhas, Ipojuca, Pernambuco, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -34.883333,
-                    -8
-                ]
-            },
-            "properties": {
-                "name": "Olinda, Pernambuco, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -35.171111,
-                    -5.881111
-                ]
-            },
-            "properties": {
-                "name": "Ponta Negra, Natal, Rio Grande do Norte, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -35.047647,
-                    -6.227582
-                ]
-            },
-            "properties": {
-                "name": "Praia de Pipa, Rio Grande do Norte, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -49.25,
-                    -25.416667
-                ]
-            },
-            "properties": {
-                "name": "Curitiba, Paraná, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -44.233333,
-                    -23.15
-                ]
-            },
-            "properties": {
-                "name": "Ilha Grande, Rio de Janeiro, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.685,
-                    -23.6
-                ]
-            },
-            "properties": {
-                "name": "Itaim Bibi, São Paulo, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -44.233333,
-                    -23.15
-                ]
-            },
-            "properties": {
-                "name": "Ilha Grande, Rio de Janeiro, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -45.35806,
-                    -23.77806
-                ]
-            },
-            "properties": {
-                "name": "Ilhabela, São Paulo, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -51.1793861,
-                    -29.1684796
-                ]
-            },
-            "properties": {
-                "name": "Caxias do Sul, Rio Grande do Sul, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.0487652,
-                    -20.6142437
-                ]
-            },
-            "properties": {
-                "name": "Capitólio, Minas Gerais, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.7031493,
-                    -23.5659351
-                ]
-            },
-            "properties": {
-                "name": "Pinheiros, São Paulo, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1936589,
-                    25.7742658
-                ]
-            },
-            "properties": {
-                "name": "Miami, Florida, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.7968559,
-                    32.7762719
-                ]
-            },
-            "properties": {
-                "name": "Dallas, Texas, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.2427669,
-                    34.0536834
-                ]
-            },
-            "properties": {
-                "name": "Los Angeles, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4192363,
-                    37.7792808
-                ]
-            },
-            "properties": {
-                "name": "San Francisco, California, USA",
-                "current": true
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.0832101,
-                    37.3893889
-                ]
-            },
-            "properties": {
-                "name": "Mountain View, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.5449763,
-                    37.9060368
-                ]
-            },
-            "properties": {
-                "name": "Mill Valley, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.5310874,
-                    37.9735346
-                ]
-            },
-            "properties": {
-                "name": "San Rafael, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.8074545,
-                    36.270241
-                ]
-            },
-            "properties": {
-                "name": "Big Sur, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.8946388,
-                    36.600256
-                ]
-            },
-            "properties": {
-                "name": "Monterey, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.0285259,
-                    36.9749416
-                ]
-            },
-            "properties": {
-                "name": "Santa Cruz, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.9232879,
-                    36.5552387
-                ]
-            },
-            "properties": {
-                "name": "Carmel-by-the-Sea, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.297639609649494,
-                    -6.9004986
-                ]
-            },
-            "properties": {
-                "name": "Dar es Salaam, Tanzania",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.320459101422884,
-                    -6.0988563
-                ]
-            },
-            "properties": {
-                "name": "Zanzibar, Tanzania",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.6880794,
-                    -3.3696827
-                ]
-            },
-            "properties": {
-                "name": "Arusha, Tanzania",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.42103291123987,
-                    -3.0637869
-                ]
-            },
-            "properties": {
-                "name": "Ngorongoro Crater, Tanzania",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.99748349817605,
-                    -3.00267505
-                ]
-            },
-            "properties": {
-                "name": "Lake Ndutu, Tanzania",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.3351044,
-                    -2.5837322
-                ]
-            },
-            "properties": {
-                "name": "Serengeti National Park, Tanzania",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.049722,
-                    -26.205
-                ]
-            },
-            "properties": {
-                "name": "Johannesburg, South Africa",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -45.1908926,
-                    -22.8057839
-                ]
-            },
-            "properties": {
-                "name": "Guaratinguetá, São Paulo, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.333889,
-                    -23.960833
-                ]
-            },
-            "properties": {
-                "name": "Santos, São Paulo, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -46.139586,
-                    -23.848568
-                ]
-            },
-            "properties": {
-                "name": "Bertioga, São Paulo, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -44.7154196,
-                    -23.2196461
-                ]
-            },
-            "properties": {
-                "name": "Paraty, Rio de Janeiro, Brazil",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.2855293,
-                    38.2971367
-                ]
-            },
-            "properties": {
-                "name": "Napa, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.43973276175743,
-                    38.280772999999996
-                ]
-            },
-            "properties": {
-                "name": "Sonoma, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.61369350203253,
-                    38.295411
-                ]
-            },
-            "properties": {
-                "name": "Petaluma, California, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-									-87.62956957740855,
-									42.02861792481852
-                ]
-            },
-            "properties": {
-                "name": "Chicago, Illinois, USA",
-                "current": false
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-									-95.40307941741264, 
-									30.450367118603253
-                ]
-            },
-            "properties": {
-                "name": "Houston, Texas, USA",
-                "current": false
-            }
-        }
-	]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.005973, 40.714353]
+      },
+      "properties": {
+        "name": "New York, NY, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.173323, 36.117314]
+      },
+      "properties": {
+        "name": "Caesars Palace, Las Vegas, NV 89109, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2411, 39.8719]
+      },
+      "properties": {
+        "name": "Philadelphia International Airport (PHL). PA 19153, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.405661, 40.058324]
+      },
+      "properties": {
+        "name": "New Jersey, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.177067, 53.300791]
+      },
+      "properties": {
+        "name": "Blackrock, Co. Dublin, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.177067, 53.300791]
+      },
+      "properties": {
+        "name": "Blackrock, Co. Dublin, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1258, 53.296603]
+      },
+      "properties": {
+        "name": "East Pier, Dún Laoghaire, Co. Dublin, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.141937, 53.29279]
+      },
+      "properties": {
+        "name": "Dún Laoghaire, Co. Dublin, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.268162, 53.75926]
+      },
+      "properties": {
+        "name": "Roscommon, Co. Roscommon, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.522501, 51.70605]
+      },
+      "properties": {
+        "name": "Kinsale, Co. Cork, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.581008, 51.644154]
+      },
+      "properties": {
+        "name": "Garretstown Beach, Co. Cork, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.486316, 51.896892]
+      },
+      "properties": {
+        "name": "Cork, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.620363, 52.093676]
+      },
+      "properties": {
+        "name": "Dungarvan, Co. Waterford, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.119824, 51.511214]
+      },
+      "properties": {
+        "name": "London, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.667367, 51.765908]
+      },
+      "properties": {
+        "name": "Essex, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.248485, 53.479324]
+      },
+      "properties": {
+        "name": "Manchester, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.70309, 53.763201]
+      },
+      "properties": {
+        "name": "Preston, Lancashire, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.188267, 55.953252]
+      },
+      "properties": {
+        "name": "Edinburgh, City of Edinburgh, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.17909, 51.481581]
+      },
+      "properties": {
+        "name": "Cardiff, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.470085, 53.381129]
+      },
+      "properties": {
+        "name": "Sheffield, South Yorkshire, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.12882, 52.586973]
+      },
+      "properties": {
+        "name": "Wolverhampton, West Midlands, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.752245, 59.913869]
+      },
+      "properties": {
+        "name": "Oslo, Norway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.89521, 64.135338]
+      },
+      "properties": {
+        "name": "Reykjavik, Iceland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.682127, 50.110922]
+      },
+      "properties": {
+        "name": "Frankfurt, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.917445, 11.558831]
+      },
+      "properties": {
+        "name": "Phnom Penh, Cambodia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.866986, 13.412469]
+      },
+      "properties": {
+        "name": "Angkor Wat, Angkor, Cambodia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833333, 13.333333]
+      },
+      "properties": {
+        "name": "Siem Reap, Cambodia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.355916, 10.536089]
+      },
+      "properties": {
+        "name": "Kep, Cambodia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.993131, 18.787748]
+      },
+      "properties": {
+        "name": "Chiang Mai, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.524123, 13.727896]
+      },
+      "properties": {
+        "name": "Bangkok, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.363882, 7.98105]
+      },
+      "properties": {
+        "name": "Phuket, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.840396, 10.09561]
+      },
+      "properties": {
+        "name": "Ko Tao, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.013593, 9.512017]
+      },
+      "properties": {
+        "name": "Ko Samui, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.013593, 9.731875]
+      },
+      "properties": {
+        "name": "Ko Pha-ngan, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.173403, 41.385064]
+      },
+      "properties": {
+        "name": "Barcelona, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.392256, 41.504081]
+      },
+      "properties": {
+        "name": "Vilassar de Mar, Barcelona, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.392996, 41.528055]
+      },
+      "properties": {
+        "name": "Cabrera de Mar, Barcelona, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.126964, 42.125024]
+      },
+      "properties": {
+        "name": "L'Escala, Girona, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.186516, 45.465454]
+      },
+      "properties": {
+        "name": "Milan, Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.286586, 37.075474]
+      },
+      "properties": {
+        "name": "Syracuse, Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.361267, 38.115688]
+      },
+      "properties": {
+        "name": "Palermo, Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.537202, 38.017618]
+      },
+      "properties": {
+        "name": "Trapani, Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.321748, 9.138239]
+      },
+      "properties": {
+        "name": "Surat Thani, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.451091, 12.55825]
+      },
+      "properties": {
+        "name": "Ko Samet, Khao Laem Ya - Mu Ko Samet National Park, Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352222, 48.856614]
+      },
+      "properties": {
+        "name": "Paris, France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.490686, 38.345996]
+      },
+      "properties": {
+        "name": "Alicante, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.470555, 50.46936]
+      },
+      "properties": {
+        "name": "Brussels South Charleroi Airport (CRL), Rue des Frères Wright 8, 6041 Charleroi, Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.686855, 3.139003]
+      },
+      "properties": {
+        "name": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.55, 6.0833]
+      },
+      "properties": {
+        "name": "Low's Peak, Mount Kinabalu, Sabah, Borneo, Malaysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.0953, 5.9714]
+      },
+      "properties": {
+        "name": "Kota Kinabalu, Sabah, Malaysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.919126, 22.307128]
+      },
+      "properties": {
+        "name": "Hong Kong International Airport (HKG), Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.222099, -8.65629]
+      },
+      "properties": {
+        "name": "Denpasar, Bali, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.170303, -8.724115]
+      },
+      "properties": {
+        "name": "Kuta, Badung, Bali, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.455586, -8.678583]
+      },
+      "properties": {
+        "name": "Lembongan island, Jungutbatu, Nusapenida, Klungkung, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.451143, -8.700368]
+      },
+      "properties": {
+        "name": "Ceningan island, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.153771, -8.818263]
+      },
+      "properties": {
+        "name": "Jalan Uluwatu, South Kuta, Badung, Bali 80361, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.205257, -8.681688]
+      },
+      "properties": {
+        "name": "Tanah Lot, Dauh Puri Kauh, West Denpasar, Denpasar, Bali 80114, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.263298, -8.519268]
+      },
+      "properties": {
+        "name": "Ubud, Gianyar 80571, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.22564, -8.797585]
+      },
+      "properties": {
+        "name": "Jalan Nusa Dua, South Kuta, Badung, Bali 80361, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.375, -8.242]
+      },
+      "properties": {
+        "name": "Mount Batur, South Batur, Kintamani, Bangli 80652, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.57995, -8.312404]
+      },
+      "properties": {
+        "name": "Tulamben, Kubu, Karangasem, Bali, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.263729, 37.862209]
+      },
+      "properties": {
+        "name": "Kusadasi, Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.623, 37.638]
+      },
+      "properties": {
+        "name": "Olympia, Greece"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.898827, 37.78816]
+      },
+      "properties": {
+        "name": "Zakinthos, Greece"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.569218, 38.175368]
+      },
+      "properties": {
+        "name": "Cephalonia, Greece"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4378, 50.075538]
+      },
+      "properties": {
+        "name": "Prague, Czech Republic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.017571, 39.695263]
+      },
+      "properties": {
+        "name": "Majorca, Balearic Islands, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.895168, 52.370216]
+      },
+      "properties": {
+        "name": "Amsterdam, The Netherlands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.890401, 52.486243]
+      },
+      "properties": {
+        "name": "Birmingham, West Midlands, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.056668, 53.270559]
+      },
+      "properties": {
+        "name": "Galway, Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.024055, 54.903367]
+      },
+      "properties": {
+        "name": "Stranraer, Dumfries and Galloway, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.307485, 25.271139]
+      },
+      "properties": {
+        "name": "Dubai - United Arab Emirates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.366667, 24.466667]
+      },
+      "properties": {
+        "name": "Abu Dhabi - United Arab Emirates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.5, 42.5]
+      },
+      "properties": {
+        "name": "Andorra La Vella, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.19739, -22.95517]
+      },
+      "properties": {
+        "name": "Rio de Janiero, Brazil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.0857, -23.4339]
+      },
+      "properties": {
+        "name": "Ubatuba, Brazil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.633333, -23.583333]
+      },
+      "properties": {
+        "name": "Vila Mariana, São Paulo, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.683333, 40.4]
+      },
+      "properties": {
+        "name": "Madrid, Spain",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.071944, 19.436111]
+      },
+      "properties": {
+        "name": "Mexico City, Mexico",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.9, -8.05]
+      },
+      "properties": {
+        "name": "Recife, Pernambuco, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35, -8.50111]
+      },
+      "properties": {
+        "name": "Porto de Galinhas, Ipojuca, Pernambuco, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.883333, -8]
+      },
+      "properties": {
+        "name": "Olinda, Pernambuco, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.171111, -5.881111]
+      },
+      "properties": {
+        "name": "Ponta Negra, Natal, Rio Grande do Norte, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.047647, -6.227582]
+      },
+      "properties": {
+        "name": "Praia de Pipa, Rio Grande do Norte, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.25, -25.416667]
+      },
+      "properties": {
+        "name": "Curitiba, Paraná, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.233333, -23.15]
+      },
+      "properties": {
+        "name": "Ilha Grande, Rio de Janeiro, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.685, -23.6]
+      },
+      "properties": {
+        "name": "Itaim Bibi, São Paulo, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.233333, -23.15]
+      },
+      "properties": {
+        "name": "Ilha Grande, Rio de Janeiro, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.35806, -23.77806]
+      },
+      "properties": {
+        "name": "Ilhabela, São Paulo, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-51.1793861, -29.1684796]
+      },
+      "properties": {
+        "name": "Caxias do Sul, Rio Grande do Sul, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.0487652, -20.6142437]
+      },
+      "properties": {
+        "name": "Capitólio, Minas Gerais, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.7031493, -23.5659351]
+      },
+      "properties": {
+        "name": "Pinheiros, São Paulo, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1936589, 25.7742658]
+      },
+      "properties": {
+        "name": "Miami, Florida, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7968559, 32.7762719]
+      },
+      "properties": {
+        "name": "Dallas, Texas, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2427669, 34.0536834]
+      },
+      "properties": {
+        "name": "Los Angeles, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4192363, 37.7792808]
+      },
+      "properties": {
+        "name": "San Francisco, California, USA",
+        "current": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.0832101, 37.3893889]
+      },
+      "properties": {
+        "name": "Mountain View, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.5449763, 37.9060368]
+      },
+      "properties": {
+        "name": "Mill Valley, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.5310874, 37.9735346]
+      },
+      "properties": {
+        "name": "San Rafael, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.8074545, 36.270241]
+      },
+      "properties": {
+        "name": "Big Sur, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.8946388, 36.600256]
+      },
+      "properties": {
+        "name": "Monterey, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.0285259, 36.9749416]
+      },
+      "properties": {
+        "name": "Santa Cruz, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.9232879, 36.5552387]
+      },
+      "properties": {
+        "name": "Carmel-by-the-Sea, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.297639609649494, -6.9004986]
+      },
+      "properties": {
+        "name": "Dar es Salaam, Tanzania",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.320459101422884, -6.0988563]
+      },
+      "properties": {
+        "name": "Zanzibar, Tanzania",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.6880794, -3.3696827]
+      },
+      "properties": {
+        "name": "Arusha, Tanzania",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.42103291123987, -3.0637869]
+      },
+      "properties": {
+        "name": "Ngorongoro Crater, Tanzania",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.99748349817605, -3.00267505]
+      },
+      "properties": {
+        "name": "Lake Ndutu, Tanzania",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.3351044, -2.5837322]
+      },
+      "properties": {
+        "name": "Serengeti National Park, Tanzania",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.049722, -26.205]
+      },
+      "properties": {
+        "name": "Johannesburg, South Africa",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.1908926, -22.8057839]
+      },
+      "properties": {
+        "name": "Guaratinguetá, São Paulo, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.333889, -23.960833]
+      },
+      "properties": {
+        "name": "Santos, São Paulo, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.139586, -23.848568]
+      },
+      "properties": {
+        "name": "Bertioga, São Paulo, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.7154196, -23.2196461]
+      },
+      "properties": {
+        "name": "Paraty, Rio de Janeiro, Brazil",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2855293, 38.2971367]
+      },
+      "properties": {
+        "name": "Napa, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43973276175743, 38.280772999999996]
+      },
+      "properties": {
+        "name": "Sonoma, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.61369350203253, 38.295411]
+      },
+      "properties": {
+        "name": "Petaluma, California, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.62956957740855, 42.02861792481852]
+      },
+      "properties": {
+        "name": "Chicago, Illinois, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.40307941741264, 30.450367118603253]
+      },
+      "properties": {
+        "name": "Houston, Texas, USA",
+        "current": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.97953, 41.015137]
+      },
+      "properties": {
+        "name": "Istanbul, Turkey",
+        "current": false
+      }
+    }
+  ]
 }
-
