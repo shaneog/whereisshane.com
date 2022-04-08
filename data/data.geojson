@@ -1210,7 +1210,7 @@
             },
             "properties": {
                 "name": "Pinheiros, São Paulo, Brazil",
-                "current": true
+                "current": false
             }
         },
         {
@@ -1266,7 +1266,7 @@
             },
             "properties": {
                 "name": "San Francisco, California, USA",
-                "current": false
+                "current": true
             }
         },
         {
