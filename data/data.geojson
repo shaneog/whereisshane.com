@@ -1562,6 +1562,20 @@
                 "name": "Petaluma, California, USA",
                 "current": false
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+									-87.62956957740855,
+									42.02861792481852
+                ]
+            },
+            "properties": {
+                "name": "Chicago, Illinois, USA",
+                "current": false
+            }
         }
 	]
 }
