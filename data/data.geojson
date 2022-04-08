@@ -1576,6 +1576,21 @@
                 "name": "Chicago, Illinois, USA",
                 "current": false
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+									-95.40307941741264, 
+									30.450367118603253
+                ]
+            },
+            "properties": {
+                "name": "Houston, Texas, USA",
+                "current": false
+            }
         }
 	]
 }
+
